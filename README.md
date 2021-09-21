@@ -1,7 +1,7 @@
 # startToLearnReact-Redux
+- Practice
 
-Practice
+- Redux with toolkit
 
-### Redux with toolkit
+- Handler sideEffect with action creator Thunk
 
-### Handler sideEffect with action creator Thunk
